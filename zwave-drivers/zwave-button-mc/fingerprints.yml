@@ -4,7 +4,7 @@ zwaveManufacturer:
     manufacturerId: 0x026E
     productType: 0x5643
     productId: 0x5A31
-    deviceProfileName: battery
+    deviceProfileName: multi-button-2
   - id: "026E/4252/5A31"
     deviceLabel: 3 Button Window Remote
     manufacturerId: 0x026E
